@@ -2,7 +2,7 @@
 
 This is a simple web application built with React that uses Google's Gemini 2.5 Flash model to analyze and generate a short, descriptive summary for any image you upload.
 
-![App Screenshot](https://i.ibb.co/TqYFH0b7/Screenshot-2025-11-10-174117.png)
+![App Demonstration](https://dpgsvsh022xbq.cloudfront.net/41719%2Fpreview%2F72644941%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1762805576&Signature=JhhGzDf6kKHG6W8dlVXSbm5hlwtPVpzuHwzZPeu5sXBpHOXcki64ulQtHTTdBMJPdITnD-PWbfD0uBoCyIDDsbKhztNCVWUoUNklh3NocwkcQqrTnd0Zpom0bJAs1RNCE7xWf8QbUrK~O6wfbTz-GUkm0Vre-5qrdoEx24ghMDq5~OtD9UebmU0AF-JZJrp85PcQrtcFLMjdf3cLq~KzOw8ELjyHuecWvcWKbEfdRxwK~OlBm62nuplJrwZurMzb4dAHQyaiNy3Sg-5lXPfgF6yYE1wGApYI3MfDdPy-VguBETdRCf6kAJdy69OsQn9cONtlmf6Nw3pz8oOxjnIKlA__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ)
 
 ---
 
