@@ -1,4 +1,4 @@
-export const Header = () => {
+const Header = () => {
   return (
     <header>
       <h1>ChatDoc AI</h1>
@@ -7,3 +7,5 @@ export const Header = () => {
     </header>
   );
 };
+
+export default Header;

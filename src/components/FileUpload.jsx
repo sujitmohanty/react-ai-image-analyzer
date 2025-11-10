@@ -1,13 +1,13 @@
 import { Buffer } from "buffer";
 
-const FileUpload = () => {
+const FileUpload = ({ setFile }) => {
   async function handleFileUpload(event) {
     const fileUpload = await event.target.files[0].arrayBuffer();
     const file = {
       type: event.target.files[0].type,
       file: Buffer.from(fileUpload).toString("base64"),
     };
-    console.log(file);
+    setFile(file);
   }
 
   return (
