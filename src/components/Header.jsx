@@ -1,8 +1,8 @@
 const Header = () => {
   return (
     <header>
-      <h1>ChatDoc AI</h1>
-      <p>Analyze PDF documents and images</p>
+      <h1>AI Image Analyzer</h1>
+      <p>Upload an image and get a short summary</p>
       <hr />
     </header>
   );
